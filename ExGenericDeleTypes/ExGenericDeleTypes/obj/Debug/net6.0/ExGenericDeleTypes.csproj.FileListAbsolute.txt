@@ -1,0 +1,14 @@
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\bin\Debug\net6.0\ExGenericDeleTypes.exe
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\bin\Debug\net6.0\ExGenericDeleTypes.deps.json
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\bin\Debug\net6.0\ExGenericDeleTypes.runtimeconfig.json
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\bin\Debug\net6.0\ExGenericDeleTypes.dll
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\bin\Debug\net6.0\ExGenericDeleTypes.pdb
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ExGenericDeleTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ExGenericDeleTypes.AssemblyInfoInputs.cache
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ExGenericDeleTypes.AssemblyInfo.cs
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ExGenericDeleTypes.csproj.CoreCompileInputs.cache
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ExGenericDeleTypes.dll
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\refint\ExGenericDeleTypes.dll
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ExGenericDeleTypes.pdb
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ExGenericDeleTypes.genruntimeconfig.cache
+D:\PRN211\project\ExGenericDeleTypes\ExGenericDeleTypes\obj\Debug\net6.0\ref\ExGenericDeleTypes.dll

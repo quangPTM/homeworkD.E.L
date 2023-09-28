@@ -1,0 +1,14 @@
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\bin\Debug\net6.0\ExampleMulticastDelegate.exe
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\bin\Debug\net6.0\ExampleMulticastDelegate.deps.json
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\bin\Debug\net6.0\ExampleMulticastDelegate.runtimeconfig.json
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\bin\Debug\net6.0\ExampleMulticastDelegate.dll
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\bin\Debug\net6.0\ExampleMulticastDelegate.pdb
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ExampleMulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ExampleMulticastDelegate.AssemblyInfoInputs.cache
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ExampleMulticastDelegate.AssemblyInfo.cs
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ExampleMulticastDelegate.csproj.CoreCompileInputs.cache
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ExampleMulticastDelegate.dll
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\refint\ExampleMulticastDelegate.dll
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ExampleMulticastDelegate.pdb
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ExampleMulticastDelegate.genruntimeconfig.cache
+D:\PRN211\project\ExampleMulticastDelegate\ExampleMulticastDelegate\obj\Debug\net6.0\ref\ExampleMulticastDelegate.dll

@@ -1,0 +1,14 @@
+D:\PRN211\project\ExLambdas\ExLambdas\bin\Debug\net6.0\ExLambdas.exe
+D:\PRN211\project\ExLambdas\ExLambdas\bin\Debug\net6.0\ExLambdas.deps.json
+D:\PRN211\project\ExLambdas\ExLambdas\bin\Debug\net6.0\ExLambdas.runtimeconfig.json
+D:\PRN211\project\ExLambdas\ExLambdas\bin\Debug\net6.0\ExLambdas.dll
+D:\PRN211\project\ExLambdas\ExLambdas\bin\Debug\net6.0\ExLambdas.pdb
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ExLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ExLambdas.AssemblyInfoInputs.cache
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ExLambdas.AssemblyInfo.cs
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ExLambdas.csproj.CoreCompileInputs.cache
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ExLambdas.dll
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\refint\ExLambdas.dll
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ExLambdas.pdb
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ExLambdas.genruntimeconfig.cache
+D:\PRN211\project\ExLambdas\ExLambdas\obj\Debug\net6.0\ref\ExLambdas.dll

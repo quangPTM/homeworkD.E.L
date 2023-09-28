@@ -1,0 +1,14 @@
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ExampleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ExampleDelegate.AssemblyInfoInputs.cache
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ExampleDelegate.AssemblyInfo.cs
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ExampleDelegate.csproj.CoreCompileInputs.cache
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\bin\Debug\net6.0\ExampleDelegate.exe
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\bin\Debug\net6.0\ExampleDelegate.deps.json
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\bin\Debug\net6.0\ExampleDelegate.runtimeconfig.json
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\bin\Debug\net6.0\ExampleDelegate.dll
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\bin\Debug\net6.0\ExampleDelegate.pdb
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ExampleDelegate.dll
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\refint\ExampleDelegate.dll
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ExampleDelegate.pdb
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ExampleDelegate.genruntimeconfig.cache
+D:\PRN211\project\ExampleDelegate\ExampleDelegate\obj\Debug\net6.0\ref\ExampleDelegate.dll

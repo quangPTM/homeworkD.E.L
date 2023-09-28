@@ -1,0 +1,14 @@
+D:\PRN211\project\ExEvents\ExEvents\bin\Debug\net6.0\ExEvents.exe
+D:\PRN211\project\ExEvents\ExEvents\bin\Debug\net6.0\ExEvents.deps.json
+D:\PRN211\project\ExEvents\ExEvents\bin\Debug\net6.0\ExEvents.runtimeconfig.json
+D:\PRN211\project\ExEvents\ExEvents\bin\Debug\net6.0\ExEvents.dll
+D:\PRN211\project\ExEvents\ExEvents\bin\Debug\net6.0\ExEvents.pdb
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ExEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ExEvents.AssemblyInfoInputs.cache
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ExEvents.AssemblyInfo.cs
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ExEvents.csproj.CoreCompileInputs.cache
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ExEvents.dll
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\refint\ExEvents.dll
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ExEvents.pdb
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ExEvents.genruntimeconfig.cache
+D:\PRN211\project\ExEvents\ExEvents\obj\Debug\net6.0\ref\ExEvents.dll
